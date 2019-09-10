@@ -8,14 +8,14 @@ You have the ability to write HTML, CSS, and responsive media queries. You also 
 
 ### Follow these steps to set up and work on your project:
 
-[X]Watch this walk through video: https://youtu.be/P2Y9W29kcjs
+[x]Watch this walk through video: https://youtu.be/P2Y9W29kcjs
 
-- [X ] Create a forked copy of this project.
-- [ X] Add PM as collaborator on Github.
-- [ X] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ X] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Add PM as collaborator on Github.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
+- [x] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: `git push origin <firstName-lastName>`.
 
 ### Follow these steps to download your template and start the project:
 
