@@ -1,0 +1,16 @@
+#footer .inner form {
+  width: 100%;
+  max-width: 100%;
+}
+
+#footer .inner form input[type="text"],
+input[type="submit"],
+textarea {
+  resize: vertical;
+  width: 100%;
+  margin: 0;
+}
+
+#footer .inner form textarea {
+  min-height: 20vh;
+}
