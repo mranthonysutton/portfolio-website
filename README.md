@@ -8,7 +8,7 @@ You have the ability to write HTML, CSS, and responsive media queries. You also 
 
 ### Follow these steps to set up and work on your project:
 
-[x] Watch this walk through video: https://youtu.be/P2Y9W29kcjs
+- [x] Watch this walk through video: https://youtu.be/P2Y9W29kcjs
 
 - [x] Create a forked copy of this project.
 - [x] Add PM as collaborator on Github.
